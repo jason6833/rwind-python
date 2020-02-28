@@ -20,7 +20,8 @@ module.exports = {
 			{
 	      title: "Python",
 	        children: [
-              "./python/1.概述"
+              "./python/1.概述",
+              "./python/2.基本语法"
 	        ]
         },
     	]
