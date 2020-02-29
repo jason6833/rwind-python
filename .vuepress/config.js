@@ -22,7 +22,8 @@ module.exports = {
 	        children: [
               "./python/1.概述",
               "./python/2.基本语法",
-              "./python/3.模块化"
+              "./python/3.模块化",
+              "./python/4.面向对象"
 	        ]
         },
     	]
