@@ -21,7 +21,8 @@ module.exports = {
 	      title: "Python",
 	        children: [
               "./python/1.概述",
-              "./python/2.基本语法"
+              "./python/2.基本语法",
+              "./python/3.模块化"
 	        ]
         },
     	]
